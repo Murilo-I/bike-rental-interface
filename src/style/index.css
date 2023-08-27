@@ -1,0 +1,15 @@
+.lines-container {
+    display: inline-block;
+    background-color: #ee161f;
+    border-radius: 3rem;
+    padding: 5px;
+}
+
+.train-bg {
+    width: 90%;
+    margin: auto;
+}
+
+.train-bg img {
+    width: 100%;
+}

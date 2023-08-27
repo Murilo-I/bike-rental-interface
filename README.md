@@ -1,2 +1,2 @@
-# bike-rental-interface
-Projeto locação de bicicleta para CPTM.
+# bike-spot-interface
+Projeto locação de vaga no bicicletário da CPTM.
